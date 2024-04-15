@@ -1,3 +1,5 @@
+![CevikKubat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CevikKubat&theme=vue-dark&hide_border=true)
+
 <h1>About Me</h1>
 
 👋 Hi! My name is Cevik and I'm a software developer in the making.
