@@ -3,7 +3,7 @@
 ![CevikKubat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CevikKubat&theme=gruvbox&hide_border=true)
 ![CevikKubat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CevikKubat&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
-<h1>About Me</h1>
+<h2>About Me</h2>
 
 👋 Hi! My name is Cevik and I'm a software developer in the making.
 <br>
