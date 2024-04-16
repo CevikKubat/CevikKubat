@@ -11,9 +11,6 @@
 🌱  I’m currently studying the intellectual enterprises of computer science and the art of programming.
 <br>
 <br>
-🌎  I aspire to make the world a better place through creating awesome stuff.
-<br>
-<br>
 🪷 
 <br>
 > Creator. Creating. Creation. <br> - Unknown
