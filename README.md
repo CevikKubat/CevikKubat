@@ -5,7 +5,7 @@
 
 <h2>About Me</h2>
 
-A software developer in the making.
+A web & software developer in the making.
 <br>
 🌱
 <br>
