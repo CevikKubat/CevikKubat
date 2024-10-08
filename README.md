@@ -28,4 +28,4 @@ A web & software developer in the making.
 <br>
 
 <h2>Frameworks</h2>
-None.. yet.
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="64">
