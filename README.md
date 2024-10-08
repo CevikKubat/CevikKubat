@@ -14,15 +14,29 @@ A web & software developer in the making.
 <br>
 
 <h2>Languages & Technologies</h2>
+<br>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="64">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="64">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="64">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="64">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="64">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="64">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="64">
+  <br>
+  <br>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Python</li>
+    <li>SQLite</li>
+  </ul>
 </div>
 
 <br>
 
 <h2>Frameworks</h2>
+<br>
 <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" width="128">
+<ul>
+  <li>Flask (Python | Backend Web Framework)</li>
+</ul>
