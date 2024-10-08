@@ -14,7 +14,6 @@ A web & software developer in the making.
 <br>
 
 <h2>Languages & Technologies</h2>
-<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="64">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="64">
@@ -35,8 +34,7 @@ A web & software developer in the making.
 <br>
 
 <h2>Frameworks</h2>
-<br>
-<img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" width="128">
+<img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" width="128" max-height="64">
 <ul>
   <li>Flask (Python | Backend Web Framework)</li>
 </ul>
